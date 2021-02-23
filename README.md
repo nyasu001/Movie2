@@ -20,9 +20,9 @@
 
 ### App Walkthough GIF
 
-https://github.com/nyasu001/Movie2/blob/master/Movie/walkthrough.gif
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+
+<img src="https://github.com/nyasu001/Movie2/blob/master/Movie/walkthrough.gif" width=250><br>
 
 ### Notes
 
